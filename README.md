@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumarsinghdeo&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumarsinghdeo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sumitsinghdeo07" target="blank"><img src="https://img.shields.io/twitter/follow/sumitsinghdeo07?logo=twitter&style=for-the-badge" alt="sumitsinghdeo07" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/sumitsinghdeo0](https://twitter.com/sksinghdeo77)7" target="blank"><img src="[https://img.shields.io/twitter/follow/sumitsinghdeo07](https://twitter.com/sksinghdeo77)?logo=twitter&style=for-the-badge" alt="sksinghdeo77" /></a> </p>
 
 - 🔭 I’m currently working on **Hospital Management System**
 
