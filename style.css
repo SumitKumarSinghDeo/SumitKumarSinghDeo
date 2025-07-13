@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+h5{
+    color: blue;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(235, 113, 100);
+    display: flex;
+    animation: both;
+    animation-fill-mode:inherit ;
+}
+#part1{
+
+    height: 100%;
+    width: 16%;
+    background: rgba(245, 3, 3, 0.872);
+    animation: infinite;
+}
+
+#part2{
+    height: 100%;
+    width:87%;
+    background: rgb(237, 14, 6);
+    background-image: url( https://plus.unsplash.com/premium_photo-1661963005592-182d602c6a3f?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    animation-play-state: 10px;
+    
+}
+#overlay{
+    height: 100%;
+    width: 100%;
+    background: hsl(hue, saturation, lightness);
+}
+
+#part3{
+    height: 100%;
+    width: 7%;
+    background: rgb(253, 4, 25);
+}
+
+#text-div{
+    height: 300px;
+    position: absolute;
+    width: 400px;
+    background-color: rgb(253, 5, 5);
+    right: 6%;
+    top:66%;
+    transform: translate();
+}
+
+#text-div>h1{
+    text-transform: uppercase;
+    font-style:italic;
+    transform: rotate(90de);
+    right: 90%;
+    text-wrap-style: 60px;
+    color: transparent;
+    color:rgb(250, 248, 247);
+}
+
+
+#small-img-div{
+    height: 400;
+    width: 300px;
+    background-image: url(https://images.unsplash.com/photo-1711777659726-202eac9008b4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+}
+
+#vertical-text{
+    position: absolute;
+    width: 100%;
+    background-color: rgb(242, 6, 6);
+}
+
+#vertical-text h1{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: monument;
+    color: transparent;
+    letter-spacing: 6px;
+    transform:rotate(0deg);
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: rgb(251, 251, 251);
+}
+
+#small-img-div{
+    position: relative;
+    height: 60%;
+    width: 40%;
+    background-image: url(https://swall.teahub.io/photos/small/155-1552867_quotes-of-bike-ducati-diavel.jpg);
+    background-color: rosybrown;
+    background-position: center;
+    background-size: contain;
+    background-image: url();
+}
