@@ -1,7 +1,7 @@
 <!-- GitHub Profile README with Modern Style -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4e0d816kuzyu700pdbjn.png" />
+  <img src="[https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4e0d816kuzyu700pdbjn.png"](https://www.freepik.com/free-vector/gradient-business-linkedin-banner_37190633.htm#fromView=keyword&page=1&position=1&uuid=68af418f-4149-45a7-9d88-28709d2a7a78&query=Github+Cover) />
   
 </p>
 
@@ -9,22 +9,13 @@
 <h1 align="center">I'm Sumit Kumar Singh Deo</h1>
 <h3 align="center">🚀 MERN Stack Developer | 💡 Lifelong Learner | 🛠️ Project Builder</h3>
 
-<p align="center">
-  <a href="https://github.com/itspksharma"><img src="https://img.shields.io/github/followers/itspksharma?style=social" /></a>
-  <a href="https://linkedin.com/in/itspksharma98"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:pawansharma.rkl@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/919658901536"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://itspksharma.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel" /></a>
-  <a href="https://dev.to/itspksharma"><img src="https://img.shields.io/badge/Dev.to-000?style=flat-square&logo=devdotto" /></a>
-</p>
-
----
-
 
 ### 🎯 Goal
 
-**"न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।"**  
-*— "There is nothing in this world as pure as true knowledge." (Bhagavad Gita 4.38)*
+🕉️"सब सुख लहै तुम्हारी सरना , तुम रक्षक काहू को डरना"🕉️
+
+🕉"यह श्लोक कहता है कि जो किसी को आपके सरन में है, वह सब सुख पाता है और आप हर प्राणी के रंक्षक हैं, तो क्या हम डरें"🕉️
+🕉️"O Hanuman ji, all happiness is found when you come to your refuge and when you are my protector i.e. protecting me, then I am not afraid of anything."🕉️
 
 <My goal is to keep learning, keep building, and grow into a better developer every day.  
 I aspire to become a strong contributor in the tech space — not just with skills, but with purpose, curiosity, and a learner’s mindset.>
@@ -61,9 +52,8 @@ const sumit = {
 
 | SL No. | Project | Description | Tech | Link |
 |--------|---------|-------------|------|------|
-| 1 | [my-portfolio](https://github.com/itspksharma/my-portfolio) | My personal developer portfolio | CSS, JavaScript, HTML | [🔗 Visit](https://github.com/itspksharma/my-portfolio) |
-
 <details>
+  
 <summary><b>📁 Click to view all GitHub Projects</b></summary>
 
 
@@ -90,10 +80,10 @@ const sumit = {
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspksharma&layout=compact&langs_count=10&theme=gruvbox&hide_border=true" width="500px" height="850px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarsinghdeo&layout=compact&langs_count=10&theme=gruvbox&hide_border=true" width="500px" height="850px" /></td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=itspksharma&theme=gruvbox&hide_border=true" width="100%" /><br />
-      <img src="https://github-readme-stats.vercel.app/api?username=itspksharma&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=sumitkumarsinghdeo&theme=gruvbox&hide_border=true" width="100%" /><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=sumitkumarsinghdeoa&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" />
     </td>
   </tr>
 </table>
@@ -108,8 +98,8 @@ const sumit = {
 
 ### 📜 Certifications
 
-- 🟡 [AWS Cloud Security Foundations](file:///C:/Users/sksin/Downloads/PDF/AWS_Academy_Graduate___AWS_Academy_Cloud_Security_Foundations_Badge20230412-28-e9av14.pdf)
-- 🔐 [Cisco Cybersecurity Essentials](file:///C:/Users/sksin/Downloads/PDF/SUMIT%20KUMARSINGH%20DEO-Cyb%20Essen%20B2C-%201-certificate.pdf)
+- 🟡 [AWS Cloud Security Foundations](https://www.credly.com/badges/6b7ac0e9-1525-4514-a4aa-647c8b0064fd/print)
+- 🔐 [Cisco Cybersecurity Essentials](https://www.credly.com/badges/f7da6c1f-82ae-4009-864a-d37c98cbd4a5)
 
 ---
 
