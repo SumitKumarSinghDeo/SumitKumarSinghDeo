@@ -1,8 +1,7 @@
 <!-- GitHub Profile README with Modern Style -->
-<!-- Banner Image -->
+<!-- Banner Video -->
 <p align="center">
-  <img src="[https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4e0d816kuzyu700pdbjn.png"](https://www.freepik.com/free-vector/gradient-business-linkedin-banner_37190633.htm#fromView=keyword&page=1&position=1&uuid=68af418f-4149-45a7-9d88-28709d2a7a78&query=Github+Cover) />
-  
+<a href="https://videocdn.cdnpk.net/videos/4776b246-0ea4-489b-8a50-d8759c6e6889/horizontal/previews/clear/small.mp4?token=exp=1753808249~hmac=a6efa82ef1cc4328ec20deb970d4913766768573bef22ce10f4d1a234ed3735f"  
 </p>
 
 <h1 align="center">🙏 Jay Shree Ram 🙏</h1>
