@@ -1,12 +1,12 @@
 <!-- GitHub Profile README with Modern Style -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Animated Banner" width="100%" />
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4e0d816kuzyu700pdbjn.png" />
   
 </p>
 
-<h1 align="center">🙏 राधे राधे 🙏</h1>
-<h1 align="center">I'm Pawan Kumar Sharma</h1>
+<h1 align="center">🙏 Jay Shree Ram 🙏</h1>
+<h1 align="center">I'm Sumit Kumar Singh Deo</h1>
 <h3 align="center">🚀 MERN Stack Developer | 💡 Lifelong Learner | 🛠️ Project Builder</h3>
 
 <p align="center">
@@ -37,7 +37,7 @@ I aspire to become a strong contributor in the tech space — not just with skil
 ```
 
 js
-const pawan = {
+const sumit = {
   code: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MySQL"],
   learning: ["Java", "Python", "MongoDB", "PHP"],
   futureGoals: [
@@ -69,14 +69,9 @@ const pawan = {
 
 | SL No. | Project | Description | Tech | Link |
 |--------|---------|-------------|------|------|
-| 2 | [just-download](https://github.com/itspksharma/just-download) | 📥 Just-Download — A clean, no-hassle app to download videos in one click. | Python | [🔗 Visit](https://github.com/itspksharma/just-download) |
-| 3 | [chrome-mood-tab-extension](https://github.com/itspksharma/chrome-mood-tab-extension) | Live video Chrome tab with moods, quotes & weather | JavaScript, CSS, HTML | [🔗 Visit](https://github.com/itspksharma/chrome-mood-tab-extension) |
-| 4 | [itspksharma-docker-multi-env](https://github.com/itspksharma/itspksharma-docker-multi-env) | Master centralized Docker environment for PHP, Node, MySQL, and more. | Dockerfile | [🔗 Visit](https://github.com/itspksharma/itspksharma-docker-multi-env) |
-| 5 | [sky-verse](https://github.com/itspksharma/sky-verse) | Real-time weather with immersive background visuals and matching quotes — feel the sky with Sky-Verse. ☁️🌦️ | JavaScript, CSS, HTML | [🔗 Visit](https://github.com/itspksharma/sky-verse) |
-| 6 | [news-sathi](https://github.com/itspksharma/news-sathi) | An Indian-themed news reader app that brings trending news in a clean, minimalist UI 🇮🇳📱 | EJS, CSS, JavaScript | [🔗 Visit](https://github.com/itspksharma/news-sathi) |
-| 7 | [just-download-for-android](https://github.com/itspksharma/just-download-for-android) |  Mobile version of the "Just Download" app – built for Android using React Native (Frontend) and Python Flask (Backend). 🔗 Supports downloading videos from YouTube, Instagram, and Facebook. 🚀 Fast, Free, and Easy to Use – powered by a lightweight Python API. | Python | [🔗 Visit](https://github.com/itspksharma/just-download-for-android) |
-| 8 | [Hospital_MS](https://github.com/itspksharma/Hospital_MS) | This Project is Developed using ASP.Net Framework and SQL Server Database | ASP.NET, C#, CSS | [🔗 Visit](https://github.com/itspksharma/Hospital_MS) |
-</details>
+|https://github.com/SumitKumarSinghDeo/VEHICLE-PARKING-MANAGEMENT|
+|https://github.com/SumitKumarSinghDeo/Student-data-management|
+|https://github.com/SumitKumarSinghDeo/Tic-Tac-Toe/tree/main/Tik-Tak-Toe-Game|
 <!-- PROJECTS:END -->
 
 
@@ -104,7 +99,7 @@ const pawan = {
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itspksharma&theme=gruvbox&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumarSinghDeo&theme=gruvbox&hide_border=true" width="95%" />
 </p>
 
 
@@ -113,8 +108,8 @@ const pawan = {
 
 ### 📜 Certifications
 
-- 🟡 [AWS Cloud Security Foundations](https://www.credly.com/badges/246d24a7-f704-4725-99be-0266cd71e61e/linked_in_profile)
-- 🔐 [Cisco Cybersecurity Essentials](https://www.credly.com/badges/1e60268d-5178-4449-92c3-9c26ae71b4d4/linked_in_profile)
+- 🟡 [AWS Cloud Security Foundations](file:///C:/Users/sksin/Downloads/PDF/AWS_Academy_Graduate___AWS_Academy_Cloud_Security_Foundations_Badge20230412-28-e9av14.pdf)
+- 🔐 [Cisco Cybersecurity Essentials](file:///C:/Users/sksin/Downloads/PDF/SUMIT%20KUMARSINGH%20DEO-Cyb%20Essen%20B2C-%201-certificate.pdf)
 
 ---
 
