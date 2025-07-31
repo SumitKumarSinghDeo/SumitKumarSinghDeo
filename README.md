@@ -1,72 +1,64 @@
-<!-- GitHub Profile README with Modern Style -->
-<!-- Banner Video -->
+````markdown name=README.md
+<!-- Animated Banner (customize with your favorite theme or add a GIF/banner you love) -->
 <p align="center">
-<a href="https://videocdn.cdnpk.net/videos/4776b246-0ea4-489b-8a50-d8759c6e6889/horizontal/previews/clear/small.mp4?token=exp=1753808249~hmac=a6efa82ef1cc4328ec20deb970d4913766768573bef22ce10f4d1a234ed3735f"  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">🙏 Jay Shree Ram 🙏</h1>
-<h1 align="center">I'm Sumit Kumar Singh Deo</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💡 Lifelong Learner | 🛠️ Project Builder</h3>
+<h2 align="center">Hey, I'm <span style="color:#f39c12;">Sumit Kumar Singh Deo</span> 🚀</h2>
 
-
-### 🎯 Goal
-
-🕉️"सब सुख लहै तुम्हारी सरना , तुम रक्षक काहू को डरना"🕉️
-
-🕉"यह श्लोक कहता है कि जो किसी को आपके सरन में है, वह सब सुख पाता है और आप हर प्राणी के रंक्षक हैं, तो क्या हम डरें"🕉️
-🕉️"O Hanuman ji, all happiness is found when you come to your refuge and when you are my protector i.e. protecting me, then I am not afraid of anything."🕉️
-
-<My goal is to keep learning, keep building, and grow into a better developer every day.  
-I aspire to become a strong contributor in the tech space — not just with skills, but with purpose, curiosity, and a learner’s mindset.>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Lifelong+Learner;Project+Builder;Open+Source+Enthusiast;Let’s%20build%20something%20amazing%20together!&center=true&width=600&height=45">
+</p>
 
 ---
 
-### 🧠 About Me
+## 🎯 **My Mantra & Mission**
 
-```
+> 🕉️ *"सब सुख लहै तुम्हारी सरना, तुम रक्षक काहू को डरना"*  
+> *When you’re under the divine protection, fear dissolves and happiness flows.*
 
-js
+My mission is to **learn, build, and empower**—to code with heart, curiosity, and positivity, and to contribute meaningfully to the tech world and community.
+
+---
+
+## 🧑‍💻 **About Me**
+
+```js
 const sumit = {
-  code: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MySQL"],
-  learning: ["Java", "Python", "MongoDB", "PHP"],
-  futureGoals: [
-    "Explore system-level programming with C++",
-    "Learn C# and .NET for enterprise-grade applications",
-    "Dive deeper into Artificial Intelligence",
-    "Gain foundational knowledge in Ethical Hacking"
-  ],
-  interests: ["Solo Travel", "Biking", "Tech Experiments"],
-  goal: "To build impactful, real-world products and grow as a Full Stack Developer."
+  pronouns: "he/him",
+  code: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MySQL"],
+  learning: ["Java", "Python", "MongoDB", "PHP"],
+  futureGoals: [
+    "System-level programming (C++)",
+    "Enterprise apps with C#/.NET",
+    "Deep dive into AI & ML",
+    "Foundations of Ethical Hacking"
+  ],
+  interests: ["Solo Travel", "Biking", "Tech Experiments", "Temple Architecture"],
+  funFact: "I find new coding ideas on long bike rides 🚴‍♂️",
+  goal: "Build impactful products, grow as a Full Stack Dev, and inspire others."
 };
-
 ```
 
 ---
 
-<!-- PROJECTS:START -->
-## 🚀 Highlight Projects
+## 🚀 **Projects Spotlight**
 
-### 🎯 Featured Project: Portfolio
-
-| SL No. | Project | Description | Tech | Link |
-|--------|---------|-------------|------|------|
 <details>
-  
-<summary><b>📁 Click to view all GitHub Projects</b></summary>
+  <summary><b>✨ Click to see my coolest projects!</b></summary>
 
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| Vehicle Parking Management | Smart and user-friendly parking system | MERN | [Repo](https://github.com/SumitKumarSinghDeo/VEHICLE-PARKING-MANAGEMENT) |
+| Student Data Management | Efficient student records management | Node.js, MySQL | [Repo](https://github.com/SumitKumarSinghDeo/Student-data-management) |
+| Tic-Tac-Toe Game | Classic game with a twist | HTML, CSS, JS | [Repo](https://github.com/SumitKumarSinghDeo/Tic-Tac-Toe/tree/main/Tik-Tak-Toe-Game) |
 
-| SL No. | Project | Description | Tech | Link |
-|--------|---------|-------------|------|------|
-|https://github.com/SumitKumarSinghDeo/VEHICLE-PARKING-MANAGEMENT|
-|https://github.com/SumitKumarSinghDeo/Student-data-management|
-|https://github.com/SumitKumarSinghDeo/Tic-Tac-Toe/tree/main/Tik-Tak-Toe-Game|
-<!-- PROJECTS:END -->
-
+</details>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,express,html,css,python,git,github,java,php,mysql" />
@@ -74,50 +66,49 @@ const sumit = {
 
 ---
 
-## 📊 GitHub Stats & Activity
-<!-- GitHub Profile Stats Section -->
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarsinghdeo&layout=compact&langs_count=10&theme=gruvbox&hide_border=true" width="500px" height="850px" /></td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=sumitkumarsinghdeo&theme=gruvbox&hide_border=true" width="100%" /><br />
-      <img src="https://github-readme-stats.vercel.app/api?username=sumitkumarsinghdeoa&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" />
-    </td>
-  </tr>
-</table>
+## 📊 **Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumarSinghDeo&theme=gruvbox&hide_border=true" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SumitKumarSinghDeo&show_icons=true&theme=radical&hide_title=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitKumarSinghDeo&theme=radical" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumarSinghDeo&theme=github-compact" height="200"/>
 </p>
-
-
 
 ---
 
-### 📜 Certifications
+## 🏅 **Certifications**
 
 - 🟡 [AWS Cloud Security Foundations](https://www.credly.com/badges/6b7ac0e9-1525-4514-a4aa-647c8b0064fd/print)
 - 🔐 [Cisco Cybersecurity Essentials](https://www.credly.com/badges/f7da6c1f-82ae-4009-864a-d37c98cbd4a5)
 
 ---
 
-### 📫 Contact
+## 🌐 **Connect With Me**
 
-```yaml
-📧 Email:      sksinghdeo77@gmail.com  
-💼 LinkedIn:   https://www.linkedin.com/in/sumit-kumar-singh-deo-7439aa203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnZPayzWDTzCYip1P7UCVgQ%3D%3D
-💼Noukry:      Sumit Kumar Singh Deo
-📱 WhatsApp:   https://wa.me/6370102457
-```
+<p align="center">
+  <a href="mailto:sksinghdeo77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-singh-deo-7439aa203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/6370102457"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+## 🌱 **Beyond Code**
+
+When I’m not coding, you’ll find me exploring ancient temples, chasing waterfalls, or lost in the thrill of a long bike ride.  
+Every adventure inspires new ideas and reminds me: **life, like code, is best when you explore, break limits, and stay curious.**
 
 ---
 
-> *"Code. Create. Collaborate." ~ Sumit Kumar Singh Deo*
-```
-🌱 When I’m not coding or building projects, I love to recharge by exploring nature — be it ancient temples, peaceful waterfalls, or hidden trails on my bike.  
-Every ride to a new place brings a fresh perspective, and reminds me that just like code, life is best when we explore, break limits, and stay curious. 🌄
-
-💬 Always open to collaboration, learning, or just a tech chat — drop a message anytime!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Code.+Create.+Collaborate.+;Let’s%20connect%20and%20build%20something%20awesome!&center=true&width=500&height=30">
+</p>
 
 ---
+
+<p align="center">
+  <b>⭐️ Thanks for visiting! ⭐️</b>
+  <br/>
+  <i>Always open to collaboration, learning, or a tech chat — drop a message anytime!</i>
+</p>
+````
