@@ -1,4 +1,3 @@
-````markdown name=README.md
 <!-- Animated Banner (customize with your favorite theme or add a GIF/banner you love) -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Banner" />
@@ -111,4 +110,3 @@ Every adventure inspires new ideas and reminds me: **life, like code, is best wh
   <br/>
   <i>Always open to collaboration, learning, or a tech chat — drop a message anytime!</i>
 </p>
-````
