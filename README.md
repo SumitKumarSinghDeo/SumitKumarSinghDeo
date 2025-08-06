@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">🙏 Jay SiyaRam Ram 🙏</h1>
+<h1 align="center">🙏 🌼Jay SiyaRam 🌼🙏</h1>
 <h2 align="center">Hey, I'm <span style="color:#f39c12;">Sumit Kumar Singh Deo</span> 🚀</h2>
 
 <p align="center">
