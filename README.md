@@ -4,7 +4,7 @@
   <img src= https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif>
 </p>
 
-<h1 align="center">🙏 🌼Jay SiyaRam 🌼🙏</h1>
+<h1 align="center">Frontend||Backend||Fullstack</h1>
 <h2 align="center">Hey, I'm <span style="color:#f39c12;">Sumit Kumar Singh Deo</span> 🚀</h2>
 
 <p align="center">
@@ -12,12 +12,7 @@
 </p>
 
 ---
-
-## 🎯 **My Mantra & Mission**
-
-> 🕉️ *"सब सुख लहै तुम्हारी सरना, तुम रक्षक काहू को डरना"*  
-> *When you’re under the divine protection, fear dissolves and happiness flows.*
-
+> 
 My mission is to **learn, build, and empower**—to code with heart, curiosity, and positivity, and to contribute meaningfully to the tech world and community.
 
 ---
