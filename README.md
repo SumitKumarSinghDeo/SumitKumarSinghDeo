@@ -1,6 +1,7 @@
 <!-- Animated Banner (customize with your favorite theme or add a GIF/banner you love) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Banner" />
+  
+  <img src= https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif>
 </p>
 
 <h1 align="center">🙏 🌼Jay SiyaRam 🌼🙏</h1>
